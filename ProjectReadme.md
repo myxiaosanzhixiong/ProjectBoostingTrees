@@ -201,6 +201,3 @@ The implementation has some limitations:
 
 These limitations are not fundamental to gradient boosting algorithms and could be addressed with additional development effort to enhance the implementation.
 
-## References
-
-- Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2nd ed.). Springer.
