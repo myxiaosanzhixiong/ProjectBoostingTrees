@@ -1,3 +1,16 @@
+# CS584
+Illinois Institute of Technology
+
+Name:Jian Zhang
+CWID:A20467790
+
+Name:Hisham Mohammed 
+Cwid:A20584812
+
+Name: Manthan Surjuse
+Cwid: A20588887
+
+
 # Gradient Boosting Classifier Implementation
 
 This is an implementation of the Gradient Boosting Tree Classification algorithm as described in Sections 10.9-10.10 of "The Elements of Statistical Learning" (2nd Edition) by Hastie, Tibshirani, and Friedman.
