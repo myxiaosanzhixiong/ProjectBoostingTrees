@@ -130,6 +130,7 @@ To evaluate the model on all datasets:
 ```bash
 python evaluate_on_datasets.py
 ```
+<img width="1385" alt="Screenshot 2025-04-23 at 3 07 22 PM" src="https://github.com/user-attachments/assets/578569fc-acda-444c-b0e6-6bc9330b426c" />
 
 ## Questions from the Project Requirements
 
