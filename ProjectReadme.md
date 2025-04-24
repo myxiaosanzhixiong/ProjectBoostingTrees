@@ -134,7 +134,7 @@ python evaluate_on_datasets.py
 
 ## Questions from the Project Requirements
 
-### What does the model you have implemented do and when should it be used?
+### Q.1 What does the model you have implemented do and when should it be used?
 
 The implemented model is a Gradient Boosting Classifier that is suited for binary classification problems. It works by building an ensemble of decision trees sequentially, where each tree corrects the errors of the previous ones. The model is particularly effective in:
 
@@ -150,7 +150,7 @@ It should be used when:
 - You have sufficient training data
 - Prediction speed at inference time is not the primary concern
 
-### How did you test your model to determine if it is working reasonably correctly?
+### Q.2 How did you test your model to determine if it is working reasonably correctly?
 
 The model was tested through multiple approaches:
 
@@ -174,7 +174,7 @@ The model was tested through multiple approaches:
 
 3. **Metrics Analysis**: Calculating and analyzing performance metrics such as accuracy, precision, recall, F1 score, and ROC AUC to ensure the model performs well across different scenarios.
 
-### What parameters have you exposed to users of your implementation in order to tune performance?
+### Q.3 What parameters have you exposed to users of your implementation in order to tune performance?
 
 The implementation exposes several parameters to tune performance:
 
@@ -186,7 +186,7 @@ The implementation exposes several parameters to tune performance:
 - **subsample**: Allows for stochastic gradient boosting by using only a fraction of the data for each tree, which can improve generalization.
 - **random_state**: Ensures reproducibility with the same initialization.
 
-### Are there specific inputs that your implementation has trouble with? Given more time, could you work around these or is it fundamental?
+### Q.4 Are there specific inputs that your implementation has trouble with? Given more time, could you work around these or is it fundamental?
 
 The implementation has some limitations:
 
